@@ -1,4 +1,4 @@
-# Twitch JSOn API
+# Twitch JSON API
 
 Find out whether the user ESL_SC2 is online and you can watch their Twitch TV Channel. 
 
